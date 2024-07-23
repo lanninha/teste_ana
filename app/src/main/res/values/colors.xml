@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name= "black">#FF000000</color>
+    <color name= "white">#FFFFFFFF</color>
+    <color name ="corBegeClaro"  >#EFD6C1</color>
+    <color name = "corLaranjaEscuro"  >#3F0F02</color>
+    <color name ="corLaranjaClaro"  >#A65829</color>
+    <color name ="corMarromClaro"  >#924A24</color>
+    <color name ="corMarromEscuro"  >#3B1007</color>
+    <color name ="corBegeMedio"  >#D9945B</color>
+
+</resources>

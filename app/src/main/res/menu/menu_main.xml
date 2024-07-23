@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Informações">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/Sobre"
+                    android:title="Sobre Nós"
+                    />
+
+                <item android:id="@+id/Contato"
+                    android:title="Contatos"
+                    />
+
+                <item android:id="@+id/Galeria"
+                    android:title="Galeria Cookies"
+                    />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Nossas Lojas">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/Pernambuco"
+                    android:title="Pernambuco"
+                    />
+                <item android:id="@+id/Paraíba"
+                    android:title="Paraíba"
+                    />
+                <item android:id="@+id/Alagoas"
+                    android:title="Alagoas"
+                    />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Sabores Cookies">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/CookieNut"
+                    android:title="Cookies Nutella"
+                    />
+                <item android:id="@+id/CookieRv"
+                    android:title="Cookie Red Velvet"
+                    />
+                <item android:id="@+id/CookieBelga"
+                    android:title="Cookie Belga"
+                    />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Sabores Bebidas">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/CocaCola"
+                    android:title="Coca Cola"
+                    />
+                <item android:id="@+id/SucoMara"
+                    android:title="Suco maracujá"
+                    />
+                <item android:id="@+id/Fanta"
+                    android:title="Fanta"
+                    />
+            </group>
+        </menu>
+    </item>
+
+</menu>
